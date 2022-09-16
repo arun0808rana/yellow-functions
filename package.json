@@ -1,0 +1,21 @@
+{
+  "name": "yellow-functions",
+  "displayName": "yellow-functions",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yellow Functions",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yellow Functions-color-theme.json"
+      }
+    ]
+  }
+}
