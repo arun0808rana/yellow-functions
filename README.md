@@ -1,4 +1,4 @@
-# yellow-functions README
+# yellow-functions Theme
 
 High contrast and main focus on the yellow functions usage, that's it.
 
